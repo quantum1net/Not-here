@@ -1,4 +1,5 @@
-# Not-here
-We do not use GitHub after sold to M$
+# Not-here-yet
+
+Setting up Mirror 
 
 GoTo: git.quantum1net.com/
